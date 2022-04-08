@@ -1,0 +1,4 @@
+node{
+  stage 'Run Jmeter Script'
+  sh jmeter.sh -Jjmeter.save.saveservice.output_format=xml -n -t C:\Users\suraj.itekari\Desktop\DemoProject\jmeterP\DemoTest.jmx -l C:\Users\suraj.itekari\Desktop\DemoProject\jmeterP\DemoTestR.jtl
+}
