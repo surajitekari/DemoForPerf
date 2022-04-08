@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="7601" it="0" lt="7426" ct="4713" ts="1637496320085" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="48340" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="4914" it="0" lt="2231" ct="901" ts="1637496327702" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="40544" sby="321" ng="1" na="1">
+  <httpSample t="2231" it="0" lt="2231" ct="901" ts="1637496327702" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="1006" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="2680" it="0" lt="2559" ct="923" ts="1637496329936" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="39538" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2692" it="0" lt="2498" ct="668" ts="1637496332641" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="56405" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+
+<httpSample t="7624" it="0" lt="7427" ct="3810" ts="1637561916025" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="48341" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="4494" it="0" lt="2120" ct="770" ts="1637561923660" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="40545" sby="321" ng="1" na="1">
+  <httpSample t="2120" it="0" lt="2120" ct="770" ts="1637561923660" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="1006" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="2371" it="0" lt="2208" ct="691" ts="1637561925783" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="39539" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="3827" it="0" lt="3581" ct="691" ts="1637561928156" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="56406" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+
+<httpSample t="5131" it="0" lt="4922" ct="2225" ts="1637562195658" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="48341" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="5160" it="0" lt="2742" ct="716" ts="1637562200797" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="40545" sby="321" ng="1" na="1">
+  <httpSample t="2742" it="0" lt="2742" ct="716" ts="1637562200797" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="1006" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="2414" it="0" lt="2300" ct="744" ts="1637562203543" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="39539" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2571" it="0" lt="2352" ct="701" ts="1637562205959" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="56406" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+
+<httpSample t="22592" it="0" lt="22435" ct="4097" ts="1637659967063" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="48342" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="29135" it="0" lt="18461" ct="824" ts="1637659989679" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="40546" sby="321" ng="1" na="1">
+  <httpSample t="18461" it="0" lt="18461" ct="824" ts="1637659989679" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="1006" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="10670" it="0" lt="10559" ct="790" ts="1637660008144" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="39540" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="34857" it="0" lt="34654" ct="972" ts="1637660018817" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="56407" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+
+<httpSample t="5181" it="0" lt="4968" ct="2326" ts="1649393202252" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="4264" it="0" lt="2074" ct="673" ts="1649393207452" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="2074" it="0" lt="2074" ct="673" ts="1649393207452" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="2186" it="0" lt="2082" ct="684" ts="1649393209530" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="3037" it="0" lt="2837" ct="646" ts="1649393211718" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="12482" it="158" lt="9879" ct="3645" ts="1649393202116" s="true" lb="Transaction Controller" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+<httpSample t="3080" it="0" lt="2921" ct="705" ts="1649393214757" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="3862" it="0" lt="1987" ct="775" ts="1649393217838" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="1987" it="0" lt="1987" ct="775" ts="1649393217838" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="1874" it="0" lt="1782" ct="0" ts="1649393219826" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2986" it="0" lt="2780" ct="647" ts="1649393221706" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="9928" it="8" lt="7688" ct="2127" ts="1649393214756" s="true" lb="Transaction Controller" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+
+<httpSample t="4876" it="0" lt="4697" ct="2004" ts="1649393609274" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="3660" it="0" lt="1824" ct="603" ts="1649393614160" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="1824" it="0" lt="1824" ct="603" ts="1649393614160" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="1833" it="0" lt="1749" ct="0" ts="1649393615987" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2522" it="0" lt="2341" ct="593" ts="1649393617822" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="11058" it="105" lt="8862" ct="3200" ts="1649393609182" s="true" lb="Transaction Controller" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+<httpSample t="2174" it="0" lt="1974" ct="630" ts="1649393620346" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="3348" it="0" lt="1781" ct="672" ts="1649393622522" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="1781" it="0" lt="1781" ct="672" ts="1649393622522" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="1567" it="0" lt="1460" ct="0" ts="1649393624303" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2456" it="0" lt="2252" ct="612" ts="1649393625872" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="7978" it="6" lt="6007" ct="1914" ts="1649393620345" s="true" lb="Transaction Controller" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+
+<httpSample t="4655" it="0" lt="4505" ct="2080" ts="1649394077953" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="4442" it="0" lt="2104" ct="779" ts="1649394082619" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="2104" it="0" lt="2104" ct="779" ts="1649394082619" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="2334" it="0" lt="2239" ct="817" ts="1649394084727" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2698" it="0" lt="2521" ct="673" ts="1649394087064" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="11795" it="117" lt="9130" ct="3532" ts="1649394077852" s="true" lb="Transaction Controller 1" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+<httpSample t="2391" it="0" lt="2198" ct="629" ts="1649394089764" s="true" lb="Home-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="5411" it="0" lt="2914" ct="637" ts="1649394092158" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="2914" it="0" lt="2914" ct="637" ts="1649394092158" s="true" lb="stretch-zone-why-nobody-talks-about-this-1-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="2495" it="0" lt="2404" ct="625" ts="1649394095074" s="true" lb="stretch-zone-why-nobody-talks-about-this-1-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="3093" it="0" lt="2899" ct="614" ts="1649394097571" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="10895" it="6" lt="8011" ct="1880" ts="1649394089763" s="true" lb="Transaction Controller 2" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+
+<httpSample t="5595" it="0" lt="5441" ct="2000" ts="1649394251669" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="3489" it="0" lt="1889" ct="782" ts="1649394257269" s="true" lb="stretch-zone-why-nobody-talks-about-this" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="1889" it="0" lt="1889" ct="782" ts="1649394257269" s="true" lb="stretch-zone-why-nobody-talks-about-this-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="1598" it="0" lt="1513" ct="0" ts="1649394259160" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2821" it="0" lt="2669" ct="557" ts="1649394260759" s="true" lb="archives/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="11905" it="99" lt="9999" ct="3339" ts="1649394251578" s="true" lb="Transaction Controller 1" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+<httpSample t="2340" it="0" lt="2177" ct="593" ts="1649394263582" s="true" lb="Home-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46001" sby="120" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/</java.net.URL>
+</httpSample>
+<httpSample t="5919" it="0" lt="3564" ct="1564" ts="1649394265923" s="true" lb="stretch-zone-why-nobody-talks-about-this-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34637" sby="321" ng="1" na="1">
+  <httpSample t="3564" it="0" lt="3564" ct="1564" ts="1649394265923" s="true" lb="stretch-zone-why-nobody-talks-about-this-1-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="562" sby="160" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this</java.net.URL>
+  </httpSample>
+  <httpSample t="2355" it="0" lt="2265" ct="598" ts="1649394269487" s="true" lb="stretch-zone-why-nobody-talks-about-this-1-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="34075" sby="161" ng="1" na="1">
+    <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lifecharger.org/stretch-zone-why-nobody-talks-about-this/</java.net.URL>
+</httpSample>
+<httpSample t="2766" it="0" lt="2594" ct="649" ts="1649394271847" s="true" lb="archives/-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="53885" sby="129" ng="1" na="1">
+  <java.net.URL>https://lifecharger.org/archives/</java.net.URL>
+</httpSample>
+<sample t="11025" it="8" lt="8335" ct="2806" ts="1649394263582" s="true" lb="Transaction Controller 2" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="134523" sby="570" ng="1" na="1"/>
+
+</testResults>
